@@ -1,2 +1,2 @@
 # javaapp-Jenkins
- This is java web app of testing jenkins
+ This is java web app for testing jenkins
